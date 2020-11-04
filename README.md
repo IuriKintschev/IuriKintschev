@@ -1,4 +1,4 @@
-# 🔥 Iuri Pastor Kintschev
+# Iuri Pastor Kintschev
 
 [![Linkedin Badge](https://img.shields.io/badge/-Iuri%20Kintschev-4682b4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuri-kintschev/)](https://www.linkedin.com/in/iuri-kintschev/) 
 [![Gmail Badge](https://img.shields.io/badge/-jtc.iuri07@gmail.com-f75175?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jtc.iuri07@gmail.com)](mailto:jtc.iuri07@gmail.com)
