@@ -9,4 +9,4 @@ e <br>tecnologias em geral
 
 Sou desenvolvedor de software, uma das minhas paixões é o desenvolvimento `mobile`.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IuriKintschev&layout=compact&hide=java,vue,ruby,objective-c,python,html,swift,kotlin,starlark,shell,scss)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IuriKintschev&theme=midnight-purple&hide_border=true&layout=compact&hide=java,vue,ruby,objective-c,python,html,swift,kotlin,starlark,shell,scss)
